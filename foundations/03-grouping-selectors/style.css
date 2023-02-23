@@ -1,0 +1,13 @@
+.bu1, .bu2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.bu1 {
+    background-color: black;
+    color: white;
+}
+
+.bu2 {
+    background-color: yellow;
+}
